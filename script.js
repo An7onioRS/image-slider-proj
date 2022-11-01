@@ -1,9 +1,9 @@
 let counter = 1
-setInterval(function() {
-    document.querySelector('#radio' + counter).checked = true
-    counter++
 
-    let currentPicture = document.querySelector
+setInterval(() => {
+    document.querySelector('#radio' + counter).checked = true
+
+    counter++
 
     if (counter > 4) {
         counter = 1
