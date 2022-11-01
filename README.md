@@ -1,2 +1,2 @@
 # image-slider-proj
-Crerating a image slider web page to exercise utilizing HTML, CSS, and JavaScript
+Build and design an image slider with both Auto-play and Manual Navigation by using CSS, HTML, and Javascript.
